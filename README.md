@@ -1,3 +1,4 @@
+
 # 🍽️ Zomato Data Analysis Using Python
 
 ## 📌 Project Overview
@@ -91,7 +92,6 @@ Example:
 sns.countplot(x=dataframe['listed_in(type)'])
 plt.xlabel("Type of restaurant")
 plt.show()
-
 
 ## 📊 Key Insights
 
